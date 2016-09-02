@@ -1,2 +1,3 @@
 # hello-world
-mu first repository
+my first repository
+I am new to this so any help is welcomed
